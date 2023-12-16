@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="1i0i8ajdra">
+            <path data-name="Rectangle 24045" transform="translate(216 387)" style="fill:#fff;stroke:#707070" d="M0 0h16v16H0z"/>
+        </clipPath>
+        <clipPath id="i3km0jn9cb">
+            <path data-name="Path 960" d="M655.541-1951.441h5.125v-7.706l-5.979-4.65-5.979 4.65v7.706h5.125v-5.125h1.708zm6.833.854a.854.854 0 0 1-.854.854h-13.666a.854.854 0 0 1-.854-.854v-8.977a.855.855 0 0 1 .33-.675l6.833-5.314a.854.854 0 0 1 1.049 0l6.833 5.314a.855.855 0 0 1 .33.675v8.977z" style="fill:none"/>
+        </clipPath>
+        <clipPath id="5nzyimzp8c">
+            <path data-name="Path 959" d="M-200-166.151h3197.836V-2310H-200z" transform="translate(200 2310)" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 180" transform="translate(-216 -387)" style="clip-path:url(#1i0i8ajdra)">
+        <g data-name="Group 640" transform="translate(-430.687 2352.732)" style="clip-path:url(#i3km0jn9cb)">
+            <g data-name="Group 639" transform="translate(-76.442 -2259.779)" style="clip-path:url(#5nzyimzp8c)">
+                <path data-name="Path 958" d="M719.172 289.776h23.915v24.542h-23.915z"/>
+            </g>
+        </g>
+    </g>
+</svg>

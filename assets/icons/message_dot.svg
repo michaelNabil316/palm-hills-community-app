@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="wobgj0dhja">
+            <path data-name="Rectangle 24045" transform="translate(216 387)" style="fill:#fff;stroke:#707070" d="M0 0h16v16H0z"/>
+        </clipPath>
+        <clipPath id="f3eou6vywb">
+            <path data-name="Path 1315" d="M720.255-1267.546a3.652 3.652 0 0 0 0 1.455h-8.428l5.491 4.845 3.672-3.287a3.655 3.655 0 0 0 1.137.935l-4.8 4.3-5.871-5.18v8.57h11.636v-7.345a3.656 3.656 0 0 0 1.455 0v8.073a.727.727 0 0 1-.727.727h-13.093a.727.727 0 0 1-.727-.727v-11.636a.727.727 0 0 1 .727-.727zm3.564 2.909a2.182 2.182 0 0 1-1.89-1.091 2.182 2.182 0 0 1 0-2.182 2.182 2.182 0 0 1 1.89-1.091 2.182 2.182 0 0 1 2.182 2.182 2.182 2.182 0 0 1-2.183 2.183z" style="fill:none"/>
+        </clipPath>
+        <clipPath id="ddkybb4klc">
+            <path data-name="Path 1314" d="M-200-484.545h2722.909V-2310H-200z" transform="translate(200 2310)" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 180" transform="translate(-216 -387)" style="clip-path:url(#wobgj0dhja)">
+        <g data-name="Group 878" transform="translate(-494 1656.727)" style="clip-path:url(#f3eou6vywb)">
+            <g data-name="Group 877" transform="translate(48.182 -2026.091)" style="clip-path:url(#ddkybb4klc)">
+                <path data-name="Path 1313" d="M658.182 753.455h23.273v21.818h-23.273z"/>
+            </g>
+        </g>
+    </g>
+</svg>

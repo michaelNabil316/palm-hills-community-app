@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_23756" data-name="Rectangle 23756" transform="translate(54 771)" style="stroke:#707070;fill:#fff" d="M0 0h24v24H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_62627" data-name="Path 62627" d="M-200 200h3744v-2510H-200z" style="fill:none;stroke:#707070"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Path_62868" data-name="Path 62868" d="M263-659h8v-10h-8zm0 8h8v-6h-8zm10 0h8v-10h-8zm0-18v6h8v-6z" style="fill:#d31148;stroke:#fff;stroke-width:.5px"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Path_62867" data-name="Path 62867" d="M-200 200h3744v-2510H-200z" style="fill:#d31148;stroke:#fff;stroke-width:.5px"/>
+        </clipPath>
+        <style>
+            
+        </style>
+    </defs>
+    <g id="Mask_Group_94" data-name="Mask Group 94" transform="translate(-54 -771)" style="clip-path:url(#clip-path)">
+        <g id="Group_69677" data-name="Group 69677" transform="translate(-206 1443.119)" style="clip-path:url(#clip-path-3)">
+            <g id="Group_69676" data-name="Group 69676" style="clip-path:url(#clip-path-4)">
+                <path id="Path_62866" data-name="Path 62866" d="M258-674h28v28h-28z" style="fill:#d31148;stroke:#fff;stroke-width:.5px"/>
+            </g>
+        </g>
+    </g>
+</svg>
